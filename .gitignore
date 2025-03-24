@@ -37,6 +37,8 @@ out/
 .vscode/
 
 ### env ###
+application.properties
+application.yml
 .env
 .env.local
 .env.development
